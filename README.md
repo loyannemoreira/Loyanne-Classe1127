@@ -15,7 +15,7 @@ Exercício 6 do Módulo de Git do curso de DevOps da Ada Tech em parceria com a 
 - Envie o arquivo para o seu git
 ## Melhorias
 
-- Criação dos arquivos em XML, JSON e YAML.
+- Criação dos arquivos também em JSON e YAML.
 
 
 ## Resolução
