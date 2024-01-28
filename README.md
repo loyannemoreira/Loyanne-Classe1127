@@ -19,4 +19,6 @@ Exercício 6 do Módulo de Git do curso de DevOps da Ada Tech em parceria com a 
 
 
 ## Resolução
-- [Resolução](https://github.com/loyannemoreira/Loyanne-Classe1127/tree/main/exercicio-6)
+- [Arquivo XML](https://github.com/loyannemoreira/Loyanne-Classe1127/blob/main/exercicio-6/preferencias.xml)
+- [Arquivo JSON](https://github.com/loyannemoreira/Loyanne-Classe1127/blob/main/exercicio-6/preferencias.json)
+- [Arquivo YAML](https://github.com/loyannemoreira/Loyanne-Classe1127/blob/main/exercicio-6/preferencias.yaml)
