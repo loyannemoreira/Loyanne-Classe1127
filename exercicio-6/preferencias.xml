@@ -1,0 +1,62 @@
+<preferencias>
+    <filmes>
+        <filme>
+            <titulo>Her</titulo>
+            <ano_lancamento>2013</ano_lancamento>
+            <elenco_principal>Joaquin Phoenix, Scarlett Johansson</elenco_principal>
+            <tipo>drama, ficção científica</tipo>
+            <sinopse>Um homem solitário se apaixona por um sistema operacional desenvolvido com de inteligência artificial. Um futuro que parece cada vez menos distante...</sinopse>
+        </filme>
+        <filme>
+            <titulo>De Volta para o Futuro</titulo>
+            <ano_lancamento>1985</ano_lancamento>
+            <elenco_principal>Michael J. Fox, Christopher Lloyd</elenco_principal>
+            <tipo>aventura, comédia, ficção científica</tipo>
+            <sinopse>Um jovem, um cientista e um DeLorean viajando pelo tempo. Filme que nos faz sonhar com skate voador até hoje...</sinopse>
+        </filme>
+        <filme>
+            <titulo>Medianeras</titulo>
+            <ano_lancamento>2011</ano_lancamento>
+            <elenco_principal>Javier Drolas, Pilar López de Ayala</elenco_principal>
+            <tipo>drama, romance</tipo>
+            <sinopse>Martin e Mariana vivem em prédios vizinhos, mas nunca haviam se encontrado, em meio ao caos da cidade e das suas particularidades (estranhas). Você termina o filme com muita vontade de jogar Where's Wally?</sinopse>
+        </filme>
+    </filmes>
+    <livros>
+        <livro>
+            <titulo>O Cortiço</titulo>
+            <autor>Aluísio Azevedo</autor>
+            <ano_lancamento>1890</ano_lancamento>
+            <tipo>drama, realismo</tipo>
+            <numero_paginas>264</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>O Guia do Mochileiro das Galáxias</titulo>
+            <autor>Douglas Adams</autor>
+            <ano_lancamento>1979</ano_lancamento>
+            <tipo>ficção científica, comédia</tipo>
+            <numero_paginas>208</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>Os Miseráveis</titulo>
+            <autor>Victor Hugo</autor>
+            <ano_lancamento>1862</ano_lancamento>
+            <tipo>drama, romance</tipo>
+            <numero_paginas>1488</numero_paginas>
+        </livro>
+    </livros>
+    <comidas>
+        <comida>
+            <nome>Pizza de brócolis com frango</nome>
+            <ingredientes>Massa de pizza, molho de tomate, queijo, brócolis, frango</ingredientes>
+        </comida>
+        <comida>
+            <nome>Bolo de Laranja</nome>
+            <ingredientes>Farinha de trigo, açúcar, ovos, suco de laranja, raspas de laranja, fermento</ingredientes>
+        </comida>
+        <comida>
+            <nome>Cachorro Quente</nome>
+            <ingredientes>Pão de hot dog, salsicha, molho de tomate, mostarda, ketchup, batata palha</ingredientes>
+        </comida>
+    </comidas>
+</preferencias>

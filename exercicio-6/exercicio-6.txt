@@ -1,0 +1,7 @@
+## Exercício 6
+- Crie um arquivo em xml com dados de suas preferências:
+	- 3 filmes de sua preferência, contendo título, ano de lançamento, elenco principal, tipo (aventura, comédia, drama etc) e sinopse.
+	- 3 livros de sua preferência, contendo título, autor, ano de lançamento, tipo (aventura, comédia, drama etc), número de páginas
+	- 3 comidas prediletas, contendo os principais ingrediantes
+- Envie o arquivo para o seu git
+

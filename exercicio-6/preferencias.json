@@ -1,0 +1,64 @@
+{
+  "preferencias": {
+    "filmes": [
+      {
+        "titulo": "Her",
+        "ano_lancamento": 2013,
+        "elenco_principal": "Joaquin Phoenix, Scarlett Johansson",
+        "tipo": "drama, ficção científica",
+        "sinopse": "Um homem solitário se apaixona por um sistema operacional desenvolvido com de inteligência artificial. Um futuro que parece cada vez menos distante..."
+      },
+      {
+        "titulo": "De Volta para o Futuro",
+        "ano_lancamento": 1985,
+        "elenco_principal": "Michael J. Fox, Christopher Lloyd",
+        "tipo": "aventura, comédia, ficção científica",
+        "sinopse": "Um jovem, um cientista e um DeLorean viajando pelo tempo. Filme que nos faz sonhar com skate voador até hoje..."
+      },
+      {
+        "titulo": "Medianeras",
+        "ano_lancamento": 2011,
+        "elenco_principal": "Javier Drolas, Pilar López de Ayala",
+        "tipo": "drama, romance",
+        "sinopse": "Martin e Mariana vivem em prédios vizinhos, mas nunca haviam se encontrado, em meio ao caos da cidade e das suas particularidades (estranhas). Você termina o filme com muita vontade de jogar Where's Wally? "
+      }
+    ],
+    "livros": [
+      {
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "ano_lancamento": 1890,
+        "tipo": "drama, realismo",
+        "numero_paginas": 264
+      },
+      {
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "ano_lancamento": 1979,
+        "tipo": "ficção científica, comédia",
+        "numero_paginas": 208
+      },
+      {
+        "titulo": "Os Miseráveis",
+        "autor": "Victor Hugo",
+        "ano_lancamento": 1862,
+        "tipo": "drama, romance",
+        "numero_paginas": 1488
+      }
+    ],
+    "comidas": [
+      {
+        "nome": "Pizza de brócolis com frango",
+        "ingredientes": "Massa de pizza, molho de tomate, queijo, brócolis, frango"
+      },
+      {
+        "nome": "Bolo de Laranja",
+        "ingredientes": "Farinha de trigo, açúcar, ovos, suco de laranja, raspas de laranja, fermento"
+      },
+      {
+        "nome": "Cachorro Quente",
+        "ingredientes": "Pão de hot dog, salsicha, molho de tomate, mostarda, ketchup, batata palha"
+      }
+    ]
+  }
+}
